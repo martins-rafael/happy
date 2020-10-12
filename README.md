@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" src="web/src/images/logo.svg?raw=true" alt="Happy">
+<img align="right" height="240" src="web/src/images/landing.svg?raw=true" alt="Happy">
 
 ## Tópicos 
 
@@ -57,7 +57,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Entre na pasta web com 
-$ cd proffy/web
+$ cd happy/web
 
 # Instale as dependências
 $ yarn install
