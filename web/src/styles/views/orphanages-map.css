@@ -1,0 +1,60 @@
+#page-map {
+  position: relative;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+#page-map aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 8rem;
+  width: 44rem;
+  background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+}
+
+#page-map aside h2 {
+  margin-top: 6.4rem;
+  font-size: 4rem;
+  line-height: 4.2rem;
+  font-weight: 800;
+}
+
+#page-map aside p {
+  margin-top: 2.4rem;
+  line-height: 2.8rem;
+}
+
+#page-map aside footer {
+  display: flex;
+  flex-direction: column;
+  line-height: 2.4rem;
+}
+
+#page-map aside footer strong {
+  font-weight: 800;
+}
+
+#page-map .leaflet-container {
+  z-index: 5;
+}
+
+#page-map .create-orphanage {
+  position: absolute;
+  right: 4rem;
+  bottom: 4rem;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6.4rem;
+  height: 6.4rem;
+  background-color: #15c3d6;
+  border-radius: 2rem;
+  transition: background-color .2s;
+}
+
+#page-map .create-orphanage:hover {
+  background-color: #17d6eb;
+}
