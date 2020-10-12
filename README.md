@@ -62,7 +62,7 @@ $ cd happy/web
 # Instale as dependências
 $ yarn install
 
-# Rode o aplicação
+# Rode a aplicação
 $ yarn start
 ```
 
