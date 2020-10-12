@@ -1,6 +1,6 @@
-# Happy
+<h1 align="center">Happy</>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-FFD666?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/happy?color=FFD666&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/happy?color=FFD666&style=flat-square">
@@ -16,7 +16,7 @@
 
 ## Tópicos 
 
-[Sobre o Happy](#sobre-o-proffy)
+[Sobre o Happy](#sobre-o-happy)
 
 [Tecnologias](#tecnologias)
 
