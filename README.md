@@ -33,8 +33,7 @@ O Happy tem como missão auxiliar crianças carentes, facilitando a visita de vo
 <br>
 
 <p align="center">
-  <img src=".github/screen-01.png" alt="Página inicial">
-  <img src=".github/screen-02.png" alt="Mapa">
+  <img src=".github/mockup.png" alt="Mockup">
 </p>
 
 <br>
@@ -43,16 +42,18 @@ O Happy tem como missão auxiliar crianças carentes, facilitando a visita de vo
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/)
-- [Node](https://nodejs.org/en/)
-- [SQLite3](https://www.sqlite.org/index.html)
-- [TypeORM](https://typeorm.io/)
-- [Leaflet](https://leafletjs.com/)
-- [Mapbox](https://www.mapbox.com/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [React](https://reactjs.org/)
+- [x] [React Native](https://reactnative.dev/)
+- [x] [Expo](https://expo.io/)
+- [x] [Node](https://nodejs.org/en/)
+- [x] [Express](https://expressjs.com/)
+- [x] [SQLite3](https://www.sqlite.org/index.html)
+- [x] [TypeORM](https://typeorm.io/)
+- [x] [Yup](https://github.com/jquense/yup)
+- [x] [Leaflet](https://leafletjs.com/)
+- [x] [Mapbox](https://www.mapbox.com/)
+- [x] [Multer](https://github.com/expressjs/multer)
 
 <br>
 
@@ -88,6 +89,23 @@ $ yarn install
 
 # Rode a aplicação
 $ yarn start
+```
+
+<br>
+
+### Mobile (App)
+
+```bash
+# Entre na pasta mobile com 
+$ cd happy/mobile
+
+# Instale as dependências
+$ yarn install
+
+# Rode o app
+$ yarn start
+
+# Escaneie o QR Code exibido na janela do navegador.
 ```
 
 <br>
